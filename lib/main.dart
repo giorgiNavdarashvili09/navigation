@@ -37,7 +37,7 @@ class HomePage extends StatelessWidget {
                   .push(MaterialPageRoute(builder: (context) => OtherPage()));
             },
             child: Container(
-              color: Colors.red,
+              color: Colors.green,
               width: 100,
               height: 100,
             ),
